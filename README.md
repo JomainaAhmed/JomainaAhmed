@@ -9,7 +9,7 @@ I am exploring the world of AI, Data Science and Web Development with a deep cur
 
 <hr>
 
-### 🧠 Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <!-- Programming Languages -->
@@ -39,7 +39,7 @@ I am exploring the world of AI, Data Science and Web Development with a deep cur
 </p>
 <hr>
 
-## 🧠 Tech Stack  
+## Tech Stack  
 
 ### 🤖 Artificial Intelligence and Machine Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -83,5 +83,10 @@ I am exploring the world of AI, Data Science and Web Development with a deep cur
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomainahafizahmed/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmed_jomaina)
 
 
