@@ -37,5 +37,6 @@ I am exploring the world of AI, Data Science and Web Development with a deep cur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="padding-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" style="padding-right:10px;" />
 </p>
+<hr>
 
 
