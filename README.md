@@ -7,6 +7,8 @@ I am exploring the world of AI, Data Science and Web Development with a deep cur
 
 [![Jomaina's Stats](https://github-readme-stats.vercel.app/api?username=JomainaAhmed&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JomainaAhmedgithub-readme-stats#gh-dark-mode-only)
 
+<hr>
+
 ### 🧠 Languages and Tools
 
 <p align="left">
